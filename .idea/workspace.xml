@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43ae3576-105f-4a34-9996-4946785d07d5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StructuralPattern/src/com/hycz/design/pattern/Adapter/ClassAdapter/Adaptee.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StructuralPattern/src/com/hycz/design/pattern/Adapter/ObjectAdapter/Adaptee.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StructuralPattern/src/com/hycz/design/pattern/Adapter/ClassAdapter/Adapter.java" />
@@ -55,6 +56,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/factory/factorymethod/PizzaStore.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/factory/simple/interfaces/PizzaStore.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/factory/simple/main/PizzaStoreMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/strategy/behavioral/Quack.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/strategy/behavioral/QuackBehavior.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/README.txt" />
@@ -63,7 +65,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/command/RemoteControlTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/factory/simple/interfaces/SimplePizzaFactory.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/command/SimpleRemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/singleton/Singleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Singleton/src/com/hycz/design/pattern/singleton/Singleton.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/state/SoldOutState.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/state/SoldState.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StructuralPattern/src/com/hycz/design/pattern/decorator/main/StarBuzzCoffee.java" />
@@ -78,6 +82,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/observer/interfaces/impl/WeatherData.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BehavioralPattern/src/com/hycz/design/pattern/observer/main/WeatherStation.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StructuralPattern/src/com/hycz/design/pattern/decorator/abstracts/impl/Whip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaDesignPattern.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,7 +168,7 @@
       <file leaf-file-name="Singleton.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/singleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="50" selection-start="272" selection-end="272" vertical-scroll-proportion="0.28764805" vertical-offset="0" max-vertical-offset="591">
+            <state line="10" column="50" selection-start="272" selection-end="272" vertical-scroll-proportion="0.4392765" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -166,6 +180,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -548,22 +565,22 @@
       <changelist id="43ae3576-105f-4a34-9996-4946785d07d5" name="Default" comment="" />
       <created>1370961321258</created>
       <updated>1370961321258</updated>
-      <workItem from="1398132662946" duration="1086000" />
+      <workItem from="1398132662946" duration="1970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1086000" />
+    <option name="totallyTimeSpent" value="1970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991317" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -691,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CreationalPattern/src/com/hycz/design/pattern/singleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="50" selection-start="272" selection-end="272" vertical-scroll-proportion="0.28764805" vertical-offset="0" max-vertical-offset="591">
+        <state line="10" column="50" selection-start="272" selection-end="272" vertical-scroll-proportion="0.4392765" vertical-offset="0" max-vertical-offset="476">
           <folding />
         </state>
       </provider>
